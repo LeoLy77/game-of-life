@@ -1,4 +1,4 @@
-# S4433912 CSSE3010 project 2020
+
 ## Usage
 Display
 - enable GRID_LABEL in CAG_share to see numerical x and y axis labels. Helpful to locate subgrid and position of cells
